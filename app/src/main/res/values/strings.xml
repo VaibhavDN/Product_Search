@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Product Search</string>
+    <string name="mainButton">mainImageButton</string>
+    <string name="mainImageView">mainImageView</string>
+    <string name="capture">Capture</string>
+    <string name="string_found">String found</string>
+    <string name="your_search_is_shown_here">Your search is shown here</string>
+    <string name="edit_your_search_query_here">Edit your search query here</string>
+    <string name="detected_text_is_shown_below">Detected text is shown below:</string>
+    <string name="selectCardViewHeading">Select the text you wish to search:</string>
+</resources>
